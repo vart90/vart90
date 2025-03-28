@@ -1,4 +1,4 @@
-### Hey there! I’m Varun a  junior developer with a Master’s in Data Science and a big passion for sports. 
+### Hey there! I’m Varun a  Junior Developer/Data Scientist  with a Master’s in Data Science and a big passion for sports. 
 
 I’m all about using data to solve real-world problems—especially when it comes to sports analytics. Right now, I’m sharpening my full-stack skills, contributing to open-source projects, and constantly learning new ways to make data more impactful.
 
